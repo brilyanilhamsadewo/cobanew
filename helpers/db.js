@@ -13,10 +13,10 @@ const mysql = require('mysql2/promise');
 // aws reblood rds
 const createConnection = async () => {
     return await mysql.createConnection({
-        host:'bot-wa-mysql.cepilawr0dy9.ap-southeast-1.rds.amazonaws.com',
-        user: 'bot_wa_mysql',
-        password: 'admindatabase123',
-        database: 'bot_wa_mysql'
+        host:'database4545mysql.cepilawr0dy9.ap-southeast-1.rds.amazonaws.com',
+        user: 'admin4545',
+        password: 'admin4545',
+        database: 'database4545'
     });
 }
 
