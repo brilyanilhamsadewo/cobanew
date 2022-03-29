@@ -103,7 +103,7 @@ const sesi = require('./helpers/session.js');
     //       msg.reply(replyMsg);
     //     }
     //   });
-    }
+//     }
   
     // Downloading media
     // if (msg.hasMedia) {
